@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xếp loại sinh viên</title>
+</head>
+<body>
+<script>
+    let chuyencan=+prompt('Nhap diem chuyen can');
+    let giuaky=+prompt('Nhap diem giua ky: ');
+    let cuoiky=+prompt('Nhap diem cuoi ky');
+    function Xeploai(number1,number2,number3) {
+        let tb = 0.2 * number1 + 0.3 * number2 + 0.5 * number3;
+        if (number1<0||number2<0||number3<0||number1>10||number2>10||number3>10){
+            alert('Nhap sai diem');
+        }else {
+            if (tb >= 9) {
+                alert('Diem trung binh la: ' + tb + ' Loai A');
+            } else if (tb >= 7) {
+                alert('Diem trung binh la: ' + tb + ' Loai B');
+            } else if (tb >= 5) {
+                alert('Diem trung binh la: ' + tb + ' Loai C');
+            } else alert('Diem trung binh la: ' + tb + ' Loai D');
+
+        }
+        return tb;
+    }
+    Xeploai(chuyencan,giuaky,cuoiky);
+</script>
+</body>
+</html>
