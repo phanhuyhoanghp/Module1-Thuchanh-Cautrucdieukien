@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0cc47e6-f274-41c0-b6dd-9d8548818ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Songaytrongthang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f0cc47e6-f274-41c0-b6dd-9d8548818ed6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607657363950</updated>
       <workItem from="1607657365027" duration="1198000" />
-      <workItem from="1607928885018" duration="3630000" />
+      <workItem from="1607928885018" duration="3942000" />
     </task>
     <servers />
   </component>
