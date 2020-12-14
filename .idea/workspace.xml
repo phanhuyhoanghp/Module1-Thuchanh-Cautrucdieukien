@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc47e6-f274-41c0-b6dd-9d8548818ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chisocannangcothe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Songaytrongthang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ThuchanhHTML-Form/MarketResearchSurvey.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607657363950</updated>
       <workItem from="1607657365027" duration="1198000" />
-      <workItem from="1607928885018" duration="346000" />
+      <workItem from="1607928885018" duration="3630000" />
     </task>
     <servers />
   </component>
