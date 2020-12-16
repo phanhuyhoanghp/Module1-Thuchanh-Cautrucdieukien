@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #no{
+            position: absolute;
+            left: 100px;
+            top: 100px;
+        }
+    </style>
+</head>
+<body>
+<h2>Do you Love Me</h2>
+<input type="button" value="yes" onclick="showYes();"><input type="button" id="no" value="No" onmouseover="showNo()">
+<script>
+    let arr = new
+    function showYes() {
+        alert("OK luon!")
+    }
+    function showNo(){
+        let topValue=Math.floor(Math.random()*window.innerHeight)
+        let leftValue=Math.floor(Math.random()*window.innerWidth)
+        document.getElementById("no").style.left=leftValue+"px"
+        document.getElementById("no").style.top=topValue+"px"
+    }
+</script>
+</body>
+</html>

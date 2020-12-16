@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0cc47e6-f274-41c0-b6dd-9d8548818ed6" name="Default Changelist" comment="" />
+    <list default="true" id="f0cc47e6-f274-41c0-b6dd-9d8548818ed6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DoYouLoveMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +48,7 @@
       <workItem from="1607928885018" duration="7805000" />
       <workItem from="1608005371055" duration="763000" />
       <workItem from="1608014691507" duration="69000" />
-      <workItem from="1608102137809" duration="326000" />
+      <workItem from="1608102137809" duration="3445000" />
     </task>
     <servers />
   </component>
