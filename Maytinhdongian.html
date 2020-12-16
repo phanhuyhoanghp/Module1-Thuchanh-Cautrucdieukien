@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Máy tính đơn giản</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+<p id="output"></p>
+<br>
+<button type="button" onclick="addToCal('0')">0</button>
+<button type="button" onclick="addToCal('1')">1</button>
+<button type="button" onclick="addToCal('2')">2</button>
+<button type="button" onclick="addToCal('3')">3</button>
+<button type="button" onclick="addToCal('4')">4</button>
+<button type="button" onclick="addToCal('5')">5</button>
+<button type="button" onclick="addToCal('6')">6</button>
+<button type="button" onclick="addToCal('7')">7</button>
+<button type="button" onclick="addToCal('8')">8</button>
+<button type="button" onclick="addToCal('9')">9</button>
+<button type="button" onclick="addToCal('+')">+</button>
+<button type="button" onclick="addToCal('-')">-</button>
+<button type="button" onclick="addToCal('*')">x</button>
+<button type="button" onclick="addToCal('/')">/</button>
+<button type="button" onclick="remove()">AC</button>
+<button type="button" onclick="result()">=</button>
+
+<script>
+    let cal='';
+    function addToCal(char)
+    {
+        cal+=char;
+        document.getElementById('output').innerHTML=cal;
+    }
+    function result()
+    {
+        document.getElementById('output').innerHTML=eval(cal);
+    }
+    function remove()
+    {
+        cal='';
+        document.getElementById('output').innerHTML=cal;
+    }
+</script>
+</body>
+</html>
+</body>
+</html>
